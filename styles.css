@@ -1,0 +1,22 @@
+body {
+    background-color: peachpuff;
+    font-family: Georgia, Times, 'Times New Roman', serif, sans-serif;  
+    margin: 22px;
+    line-height: 2.0;
+}
+.Skills {
+    border-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Experience {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: green 
+}
+.Education {
+    font-family: 'Courier New', Courier, monospace;
+    color: green; 
+}
+.Achievements {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: green; 
+}
